@@ -6,7 +6,7 @@
             "description": "אחת המנות הידועות ביותר של המטבח הפרסי ואולי אפילו מנת הדגל שלהם. מדובר בערמות ענק של ירק טרי מגוון החל מפטרוזליה דרך כוסברה נענע וכלה בתרד שטופים היטב וקצוצים",
             "price": 30,
             "price_member": 20,
-            "picture": "file:///C:/Restaurantly/assets/img/menu/sabzi.jpg",
+            "picture": "https://www.thekitchencoach.co.il/wp-content/uploads/2018/08/%D7%90%D7%97%D7%AA-%D7%9E%D7%9E%D7%A0%D7%95%D7%AA-%D7%94%D7%93%D7%92%D7%9C-%D7%A9%D7%9C-%D7%94%D7%9E%D7%98%D7%91%D7%97-%D7%94%D7%A4%D7%A8%D7%A1%D7%99.-%D7%A6%D7%99%D7%9C%D7%95%D7%9D-%D7%A2%D7%96-%D7%AA%D7%9C%D7%9D.jpg",
             "category": "Lunch",
             "tag": "Spicey"
         },
@@ -16,7 +16,7 @@
             "description": "הקבב המיוחד שלנו שעמוס בבצל טחון ומעט מאד תבלינים ובזה ייחודו",
             "price": 20,
             "price_member": 10,
-            "picture": "file:///C:/Restaurantly/assets/img/menu/salimi.jpg",
+            "picture": "https://medias.timeout.co.il/www/uploads/2013/11/salimi-by-aner-gelem-S-1140x641.jpg",
             "category": "Lunch",
             "tag": ""
         },
@@ -26,7 +26,7 @@
             "description": "גרגרים תפוחים לבנים פרודים היטב מקבלים אינסוף תוספות שהופכות אותם לאורזים מגוונים ונפלאים במקרה הספציפי הזה מדובר בזרשק דומדמניות מיובשות ומעט חמצמצות שמתבשלות כמה דקות במעט מי זעפרן",
             "price": 25,
             "price_member": 15,
-            "picture": "file:///C:/Restaurantly/assets/img/menu/samshiri.jpg",
+            "picture": "https://misadot.rol.co.il/images/sites/shmshiri/meals/1.gif",
             "category": "Lunch",
             "tag": ""
         }
