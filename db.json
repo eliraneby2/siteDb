@@ -29,14 +29,84 @@
             "picture": "https://misadot.rol.co.il/images/sites/shmshiri/meals/1.gif",
             "category": "Lunch",
             "tag": ""
+        },
+        {
+            "id": 4,
+            "name": "אורז עם קולורבי וכדורי בשר:",
+            "description": "חציל קלוי המתמזג עם חביתת הירק הנפלאה",
+            "price": 20,
+            "price_member": 10,
+            "picture": "https://rotteml.com/wp-content/uploads/2020/12/%D7%90%D7%95%D7%A8%D7%96-%D7%A7%D7%95%D7%9C%D7%95%D7%A8%D7%91%D7%99.jpg",
+            "category": "Lunch",
+            "tag": ""
+        },
+        {
+            "id": 5,
+            "name": "ארטישוקים ממולאים",
+            "description": "ארטישוק ממולא בקציצת דג פילה לבן בשילוב עשבי תיבול המוגש על רוטב פרסי מיוחד.",
+            "price": 25,
+            "price_member": 15,
+            "picture": "https://www.magiccake.co.il/wp-content/uploads/2018/09/IMG_9649-1.jpg",
+            "category": "Lunch",
+            "tag": ""
+        },
+        {
+            "id": 6,
+            "name": "תבשיל קדירה של בשר ודלעת",
+            "description": "סיר אחד שיש בו הכל, פיסות בשר נימוחות שבושלו זמן ארוך, תבלינים חמים, שזיפים שמוסיפים מתיקות עדינה ודלעת כתומה",
+            "price": 20,
+            "price_member": 10,
+            "picture": "https://images1.ynet.co.il/PicServer5/2018/03/16/8410097/8290998099199980811no.jpg",
+            "category": "Lunch",
+            "tag": ""
+        },
+        {
+            "id": 7,
+            "name": "מג'דרה פרסית טבעונית",
+            "description": "אורז הפרסי בתיבול משגע בתוספת עדשים ירוקות צימוקים שחורים תמרים קצוצים",
+            "price": 25,
+            "price_member": 15,
+            "picture": "https://rotteml.com/wp-content/uploads/2020/07/%D7%90%D7%95%D7%A8%D7%96-%D7%A4%D7%A8%D7%A1%D7%99-%D7%A2%D7%9D-%D7%91%D7%A9%D7%A8-760x400.jpg",
+            "category": "Lunch",
+            "tag": ""
+        },
+        {
+            "id": 8,
+            "name": "גונדי טבעוני",
+            "description": "גונדי טבעוני המורכב מקמח חומוס קלוי וטחון מוגש  ככדורי טניס שמזכירים לנו קניידלך",
+            "price": 25,
+            "price_member": 15,
+            "picture": "https://rotteml.com/wp-content/uploads/2020/02/%D7%92%D7%95%D7%A0%D7%93%D7%99-%D7%98%D7%91%D7%A2%D7%95%D7%A0%D7%99.jpg",
+            "category": "Lunch",
+            "tag": ""
+        },
+        {
+            "id": 9,
+            "name": "מרק אש טורש טבעוני פרסי",
+            "description": "מרק המורכב מסלקים, רכז רימונים, והמון המון ירוקים ולימון.",
+            "price": 20,
+            "price_member": 10,
+            "picture": "https://rotteml.com/wp-content/uploads/2020/04/%D7%90%D7%95%D7%9C%D7%99%D7%91%D7%99%D7%99%D7%94-760x400.jpg",
+            "category": "Lunch",
+            "tag": ""
+        },
+        {
+            "id": 10,
+            "name": "אורז עם פול ובשר",
+            "description": "אורז לבן, אחד אחד, משובץ בפול עסיסי ומנוקד בקוביות בשר מתובלות ונימוחות. כל האורז מבושם בירק קצוץ",
+            "price": 25,
+            "price_member": 15,
+            "picture": "https://rotteml.com/wp-content/uploads/2020/03/%D7%9E%D7%A8%D7%99%D7%A0%D7%93%D7%95-%D7%A7%D7%93%D7%99%D7%A8%D7%94-760x400.jpg",
+            "category": "Lunch",
+            "tag": ""
         }
     ],
     "members": [
         {
             "id": 1,
-            "first_name": "אופק",
-            "last_name": "סדלובסקי",
-            "email": "ofeksadlo@gmail.com",
+            "first_name": "אלירן",
+            "last_name": "בן יצחק",
+            "email": "eliraneb2@gmail.com",
             "password": "123456",
             "isAdmin": 1
         }
@@ -44,8 +114,8 @@
     "orders" : [
         {
             "order_id" : 1,
-            "client_name": "אופק סדלובסקי",
-            "client_address": "ירושלים 48 בת ים",
+            "client_name": "אלירן בן יצחק",
+            "client_address": " הרותם 18 פרדסיה",
             "totalPrice": 100,
             "dishes": [1,2,2,2],
             "status": "בהכנה"
